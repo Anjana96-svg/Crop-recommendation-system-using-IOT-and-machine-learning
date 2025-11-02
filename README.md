@@ -25,3 +25,8 @@ python Ap.py to run python file
 
 Another terminal
 node server.js to run node js
+
+![Screenshot_2-11-2025_121153_github com](https://github.com/user-attachments/assets/e5db4683-84bd-4d4e-803c-3f71fc6ae5d5)
+
+![Screenshot_2-11-2025_12127_github com](https://github.com/user-attachments/assets/e315516a-15f7-4b4c-81df-9d7592354d65)
+
